@@ -1,0 +1,106 @@
+C:\Users\Md. Anamul Haque\source\repos\BBMS\bin\Debug\BBMS.exe.config
+C:\Users\Md. Anamul Haque\source\repos\BBMS\bin\Debug\BBMS.exe
+C:\Users\Md. Anamul Haque\source\repos\BBMS\bin\Debug\BBMS.pdb
+C:\Users\Md. Anamul Haque\source\repos\BBMS\obj\Debug\BBMS.csproj.AssemblyReference.cache
+C:\Users\Md. Anamul Haque\source\repos\BBMS\obj\Debug\BBMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Md. Anamul Haque\source\repos\BBMS\obj\Debug\BBMS.Properties.Resources.resources
+C:\Users\Md. Anamul Haque\source\repos\BBMS\obj\Debug\BBMS.csproj.GenerateResource.cache
+C:\Users\Md. Anamul Haque\source\repos\BBMS\obj\Debug\BBMS.csproj.CoreCompileInputs.cache
+C:\Users\Md. Anamul Haque\source\repos\BBMS\obj\Debug\BBMS.exe
+C:\Users\Md. Anamul Haque\source\repos\BBMS\obj\Debug\BBMS.pdb
+C:\Users\Md. Anamul Haque\source\repos\BBMS\obj\Debug\BBMS.Login.resources
+C:\Users\Md. Anamul Haque\source\repos\BBMS\obj\Debug\BBMS.Donar.resources
+C:\Users\Md. Anamul Haque\source\repos\BBMS\obj\Debug\BBMS.ViewDonor.resources
+C:\Users\Md. Anamul Haque\source\repos\BBMS\obj\Debug\BBMS.Patient.resources
+C:\Users\Md. Anamul Haque\source\repos\BBMS\obj\Debug\BBMS.ViewPatient.resources
+C:\Users\Md. Anamul Haque\source\repos\BBMS\obj\Debug\BBMS.BloodStock.resources
+C:\Users\Md. Anamul Haque\source\repos\BBMS\obj\Debug\BBMS.BloodTransfer.resources
+C:\Users\Md. Anamul Haque\source\repos\BBMS\obj\Debug\BBMS.DashBoard.resources
+C:\Users\Md. Anamul Haque\source\repos\BBMS\obj\Debug\BBMS.Donate.resources
+C:\Users\Md. Anamul Haque\source\repos\BBMS\obj\Debug\BBMS.Employee.resources
+C:\Users\Md. Anamul Haque\source\repos\BBMS\obj\Debug\BBMS.AdminLogin.resources
+C:\Users\Md. Anamul Haque\source\repos\BBMS\obj\Debug\BBMS.MainFrom.resources
+F:\Language\C#\BBMS-20220514T162914Z-001\BBMS\bin\Debug\BBMS.exe.config
+F:\Language\C#\BBMS-20220514T162914Z-001\BBMS\bin\Debug\BBMS.exe
+F:\Language\C#\BBMS-20220514T162914Z-001\BBMS\bin\Debug\BBMS.pdb
+F:\Language\C#\BBMS-20220514T162914Z-001\BBMS\obj\Debug\BBMS.csproj.AssemblyReference.cache
+F:\Language\C#\BBMS-20220514T162914Z-001\BBMS\obj\Debug\BBMS.AdminLogin.resources
+F:\Language\C#\BBMS-20220514T162914Z-001\BBMS\obj\Debug\BBMS.MainFrom.resources
+F:\Language\C#\BBMS-20220514T162914Z-001\BBMS\obj\Debug\BBMS.BloodStock.resources
+F:\Language\C#\BBMS-20220514T162914Z-001\BBMS\obj\Debug\BBMS.BloodTransfer.resources
+F:\Language\C#\BBMS-20220514T162914Z-001\BBMS\obj\Debug\BBMS.DashBoard.resources
+F:\Language\C#\BBMS-20220514T162914Z-001\BBMS\obj\Debug\BBMS.Donar.resources
+F:\Language\C#\BBMS-20220514T162914Z-001\BBMS\obj\Debug\BBMS.Donate.resources
+F:\Language\C#\BBMS-20220514T162914Z-001\BBMS\obj\Debug\BBMS.Employee.resources
+F:\Language\C#\BBMS-20220514T162914Z-001\BBMS\obj\Debug\BBMS.Login.resources
+F:\Language\C#\BBMS-20220514T162914Z-001\BBMS\obj\Debug\BBMS.Patient.resources
+F:\Language\C#\BBMS-20220514T162914Z-001\BBMS\obj\Debug\BBMS.Properties.Resources.resources
+F:\Language\C#\BBMS-20220514T162914Z-001\BBMS\obj\Debug\BBMS.ViewDonor.resources
+F:\Language\C#\BBMS-20220514T162914Z-001\BBMS\obj\Debug\BBMS.ViewPatient.resources
+F:\Language\C#\BBMS-20220514T162914Z-001\BBMS\obj\Debug\BBMS.csproj.GenerateResource.cache
+F:\Language\C#\BBMS-20220514T162914Z-001\BBMS\obj\Debug\BBMS.csproj.CoreCompileInputs.cache
+F:\Language\C#\BBMS-20220514T162914Z-001\BBMS\obj\Debug\BBMS.exe
+F:\Language\C#\BBMS-20220514T162914Z-001\BBMS\obj\Debug\BBMS.pdb
+C:\Users\Asus\Downloads\BBMS\BBMS\bin\Debug\BBMS.exe.config
+C:\Users\Asus\Downloads\BBMS\BBMS\bin\Debug\BBMS.exe
+C:\Users\Asus\Downloads\BBMS\BBMS\bin\Debug\BBMS.pdb
+C:\Users\Asus\Downloads\BBMS\BBMS\obj\Debug\BBMS.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\BBMS\BBMS\obj\Debug\BBMS.AdminLogin.resources
+C:\Users\Asus\Downloads\BBMS\BBMS\obj\Debug\BBMS.MainFrom.resources
+C:\Users\Asus\Downloads\BBMS\BBMS\obj\Debug\BBMS.BloodStock.resources
+C:\Users\Asus\Downloads\BBMS\BBMS\obj\Debug\BBMS.BloodTransfer.resources
+C:\Users\Asus\Downloads\BBMS\BBMS\obj\Debug\BBMS.DashBoard.resources
+C:\Users\Asus\Downloads\BBMS\BBMS\obj\Debug\BBMS.Donar.resources
+C:\Users\Asus\Downloads\BBMS\BBMS\obj\Debug\BBMS.Donate.resources
+C:\Users\Asus\Downloads\BBMS\BBMS\obj\Debug\BBMS.Employee.resources
+C:\Users\Asus\Downloads\BBMS\BBMS\obj\Debug\BBMS.Login.resources
+C:\Users\Asus\Downloads\BBMS\BBMS\obj\Debug\BBMS.Patient.resources
+C:\Users\Asus\Downloads\BBMS\BBMS\obj\Debug\BBMS.Properties.Resources.resources
+C:\Users\Asus\Downloads\BBMS\BBMS\obj\Debug\BBMS.ViewDonor.resources
+C:\Users\Asus\Downloads\BBMS\BBMS\obj\Debug\BBMS.ViewPatient.resources
+C:\Users\Asus\Downloads\BBMS\BBMS\obj\Debug\BBMS.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\BBMS\BBMS\obj\Debug\BBMS.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\BBMS\BBMS\obj\Debug\BBMS.exe
+C:\Users\Asus\Downloads\BBMS\BBMS\obj\Debug\BBMS.pdb
+E:\Course\8th semester\C#\BBMS\BBMS\bin\Debug\BBMS.exe.config
+E:\Course\8th semester\C#\BBMS\BBMS\bin\Debug\BBMS.exe
+E:\Course\8th semester\C#\BBMS\BBMS\bin\Debug\BBMS.pdb
+E:\Course\8th semester\C#\BBMS\BBMS\obj\Debug\BBMS.csproj.AssemblyReference.cache
+E:\Course\8th semester\C#\BBMS\BBMS\obj\Debug\BBMS.AdminLogin.resources
+E:\Course\8th semester\C#\BBMS\BBMS\obj\Debug\BBMS.MainFrom.resources
+E:\Course\8th semester\C#\BBMS\BBMS\obj\Debug\BBMS.BloodStock.resources
+E:\Course\8th semester\C#\BBMS\BBMS\obj\Debug\BBMS.BloodTransfer.resources
+E:\Course\8th semester\C#\BBMS\BBMS\obj\Debug\BBMS.DashBoard.resources
+E:\Course\8th semester\C#\BBMS\BBMS\obj\Debug\BBMS.Donar.resources
+E:\Course\8th semester\C#\BBMS\BBMS\obj\Debug\BBMS.Donate.resources
+E:\Course\8th semester\C#\BBMS\BBMS\obj\Debug\BBMS.Employee.resources
+E:\Course\8th semester\C#\BBMS\BBMS\obj\Debug\BBMS.Login.resources
+E:\Course\8th semester\C#\BBMS\BBMS\obj\Debug\BBMS.Patient.resources
+E:\Course\8th semester\C#\BBMS\BBMS\obj\Debug\BBMS.Properties.Resources.resources
+E:\Course\8th semester\C#\BBMS\BBMS\obj\Debug\BBMS.ViewDonor.resources
+E:\Course\8th semester\C#\BBMS\BBMS\obj\Debug\BBMS.ViewPatient.resources
+E:\Course\8th semester\C#\BBMS\BBMS\obj\Debug\BBMS.csproj.GenerateResource.cache
+E:\Course\8th semester\C#\BBMS\BBMS\obj\Debug\BBMS.csproj.CoreCompileInputs.cache
+E:\Course\8th semester\C#\BBMS\BBMS\obj\Debug\BBMS.exe
+E:\Course\8th semester\C#\BBMS\BBMS\obj\Debug\BBMS.pdb
+C:\Users\Asus\OneDrive\Desktop\CSharp\BBMS\bin\Debug\BBMS.exe.config
+C:\Users\Asus\OneDrive\Desktop\CSharp\BBMS\bin\Debug\BBMS.exe
+C:\Users\Asus\OneDrive\Desktop\CSharp\BBMS\bin\Debug\BBMS.pdb
+C:\Users\Asus\OneDrive\Desktop\CSharp\BBMS\obj\Debug\BBMS.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\CSharp\BBMS\obj\Debug\BBMS.AdminLogin.resources
+C:\Users\Asus\OneDrive\Desktop\CSharp\BBMS\obj\Debug\BBMS.MainFrom.resources
+C:\Users\Asus\OneDrive\Desktop\CSharp\BBMS\obj\Debug\BBMS.BloodStock.resources
+C:\Users\Asus\OneDrive\Desktop\CSharp\BBMS\obj\Debug\BBMS.BloodTransfer.resources
+C:\Users\Asus\OneDrive\Desktop\CSharp\BBMS\obj\Debug\BBMS.DashBoard.resources
+C:\Users\Asus\OneDrive\Desktop\CSharp\BBMS\obj\Debug\BBMS.Donar.resources
+C:\Users\Asus\OneDrive\Desktop\CSharp\BBMS\obj\Debug\BBMS.Donate.resources
+C:\Users\Asus\OneDrive\Desktop\CSharp\BBMS\obj\Debug\BBMS.Employee.resources
+C:\Users\Asus\OneDrive\Desktop\CSharp\BBMS\obj\Debug\BBMS.Login.resources
+C:\Users\Asus\OneDrive\Desktop\CSharp\BBMS\obj\Debug\BBMS.Patient.resources
+C:\Users\Asus\OneDrive\Desktop\CSharp\BBMS\obj\Debug\BBMS.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Desktop\CSharp\BBMS\obj\Debug\BBMS.ViewDonor.resources
+C:\Users\Asus\OneDrive\Desktop\CSharp\BBMS\obj\Debug\BBMS.ViewPatient.resources
+C:\Users\Asus\OneDrive\Desktop\CSharp\BBMS\obj\Debug\BBMS.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Desktop\CSharp\BBMS\obj\Debug\BBMS.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\CSharp\BBMS\obj\Debug\BBMS.exe
+C:\Users\Asus\OneDrive\Desktop\CSharp\BBMS\obj\Debug\BBMS.pdb
